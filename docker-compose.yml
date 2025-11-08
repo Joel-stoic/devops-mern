@@ -21,3 +21,4 @@ services:
       - backend
     env_file:
       -"./frontend/.env.prod"
+      
